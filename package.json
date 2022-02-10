@@ -1,6 +1,7 @@
 {
-  "name": "hisoka-morou",
-  "version": "1.2.3",
+  "name": "giie-morou",
+  "version": "17.0.0",
+  "lockfileVersion": 7,
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
@@ -48,10 +49,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DikaArdnt/Hisoka-Morou.git"
+    "url": "git+https://github.com/DikaArdnt/giie-Morou.git"
   },
   "bugs": {
-    "url": "https://github.com/DikaArdnt/Hisoka-Morou/issues"
+    "url": "https://github.com/DikaArdnt/giie-Morou/issues"
   },
-  "homepage": "https://github.com/DikaArdnt/Hisoka-Morou#readme"
+  "homepage": "https://github.com/DikaArdnt/giie-Morou#readme"
 }
