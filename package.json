@@ -1,7 +1,6 @@
 {
   "name": "giie-morou",
   "version": "17.0.0",
-  "lockfileVersion": 7,
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
